@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Hans-J\u00fcrgen",
+                "last": "Reiff"
+            },
+            "location": {
+                "street": {
+                    "number": 8223,
+                    "name": "Rosenstra\u00dfe"
+                },
+                "city": "Gerolzhofen",
+                "state": "Niedersachsen",
+                "country": "Germany",
+                "postcode": 43350,
+                "coordinates": {
+                    "latitude": "-48.2770",
+                    "longitude": "-40.5237"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "hans-jurgen.reiff@example.com",
+            "login": {
+                "uuid": "6b8dc485-a823-4311-a638-c67955340535",
+                "username": "brownlion828",
+                "password": "happy1",
+                "salt": "PFlmngeP",
+                "md5": "4dd97f389020951f12c382dba23315b4",
+                "sha1": "c62ea4e9131fabfb1d4179d3d39684b3ec642094",
+                "sha256": "db3525cb82dc6f476bc817ddda0fe04d15d9f0d30fac2d00a02a2d35a72dc701"
+            },
+            "dob": {
+                "date": "1966-08-14T16:45:33.385Z",
+                "age": 59
+            },
+            "registered": {
+                "date": "2011-10-31T16:11:13.255Z",
+                "age": 14
+            },
+            "phone": "0332-2032376",
+            "cell": "0176-4485139",
+            "id": {
+                "name": "SVNR",
+                "value": "89 140866 R 169"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/61.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+            },
+            "nat": "DE"
+        }
+    ],
+    "info": {
+        "seed": "49158259507364a4",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
